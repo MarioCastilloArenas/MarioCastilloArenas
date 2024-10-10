@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 👀 Estoy buscando trabajo como programador frontend.<br>- 💞️ Las tecnologías que más domino son: Java, TypeScript, HTML y CSS.<br>- 🌱 Actualmente estoy ampliando mis conocimentos en AngularJS.<br>- 🌍 Aquí puedes visitar mi portafolio web: <br>- 📚 Y aquí puedes ver mi LinkedIn: https://linkedin.com/in/mario-castillo-arenas/</p>
+<p align="left">- 👀 Estoy buscando trabajo como programador frontend.<br>- 💞️ Las tecnologías que más domino son: Java, TypeScript, HTML y CSS.<br>- 🌱 Actualmente estoy ampliando mis conocimentos en AngularJS.<br>- 🌍 Aquí puedes visitar mi portafolio web: https://mario-castillo-website.netlify.app/ <br>- 📚 Y aquí puedes ver mi LinkedIn: https://linkedin.com/in/mario-castillo-arenas/</p>
 
 ###
 
